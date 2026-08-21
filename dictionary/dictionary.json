@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "dictionary_version": "2026.08.21.1",
+  "updated_at": "2026-08-21",
+  "entries": [
+    {
+      "wrong": "국민의뢰를 하겠습니다",
+      "correct": "국민의례를 하겠습니다"
+    },
+    {
+      "wrong": "국회에 대하여 경례",
+      "correct": "국기에 대하여 경례"
+    },
+    {
+      "wrong": "보이스피스 범죄",
+      "correct": "보이스피싱 범죄"
+    }
+  ]
+}
