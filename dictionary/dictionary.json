@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "dictionary_version": "2026.08.24.1",
+  "dictionary_version": "2026.08.24.2",
   "updated_at": "2026-08-24",
   "entries": [
     {
@@ -17,7 +17,7 @@
     },
     {
       "wrong": "아락하였습니다",
-      "correct": "하락하였습니다."
+      "correct": "하락하였습니다"
     },
     {
       "wrong": "녹취면적",
