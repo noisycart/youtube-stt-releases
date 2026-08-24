@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "dictionary_version": "2026.08.23.1",
-  "updated_at": "2026-08-23",
+  "dictionary_version": "2026.08.24.1",
+  "updated_at": "2026-08-24",
   "entries": [
     {
       "wrong": "국민의뢰를 하겠습니다",
@@ -14,6 +14,10 @@
     {
       "wrong": "보이스피스 범죄",
       "correct": "보이스피싱 범죄"
+    },
+    {
+      "wrong": "아락하였습니다",
+      "correct": "하락하였습니다."
     },
     {
       "wrong": "녹취면적",
